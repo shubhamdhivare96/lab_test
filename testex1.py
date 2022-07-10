@@ -1,0 +1,5 @@
+print("Hello World")
+print("check for change")
+print("checking for automation")
+print("11")
+print("add,commit,push,to git,then pull,check jankins")
